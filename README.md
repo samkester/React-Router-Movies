@@ -26,10 +26,10 @@ Topics:
 
 #### Set up Routes
 
-* [ ] Wrap your app with the router.
-* [ ] Inside your App file add two routes.
-  * [ ] one route for `/` that loads the `MovieList` component. **This component will need the movies injected into it via props**.
-  * [ ] one route that will take an `id` parameter after`/movies/` (ex: `/movies/2`, `/movies/3` where the id is dynamic). This route should load the `Movie` component.
+* [X] Wrap your app with the router.
+* [X] Inside your App file add two routes.
+  * [X] one route for `/` that loads the `MovieList` component. **This component will need the movies injected into it via props**.
+  * [X] one route that will take an `id` parameter after`/movies/` (ex: `/movies/2`, `/movies/3` where the id is dynamic). This route should load the `Movie` component.
 
 #### Add Functionality
 
