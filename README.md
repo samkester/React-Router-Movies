@@ -33,10 +33,10 @@ Topics:
 
 #### Add Functionality
 
-* [ ] When a user clicks on the movie card inside `MovieList` they should be taken to `/movies/{id of clicked movie here}` to see the details of the selected movie.
-* [ ] You will need to modify line 8 of `Movie.js` to get the id of the selected movie from the URL.
-* [ ] Add functionality so the `Home` button on the `SavedList` component navigates back to home.
-* [ ] You should now be able to navigate back and forth between the list of movies and the detailed view of a single movie.
+* [X] When a user clicks on the movie card inside `MovieList` they should be taken to `/movies/{id of clicked movie here}` to see the details of the selected movie.
+* [X] You will need to modify line 8 of `Movie.js` to get the id of the selected movie from the URL.
+* [X] Add functionality so the `Home` button on the `SavedList` component navigates back to home.
+* [X] You should now be able to navigate back and forth between the list of movies and the detailed view of a single movie.
 
 ### Task 2b: Exit Ticket
 
